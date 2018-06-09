@@ -1,0 +1,13 @@
+{
+  "name": "hyrule-warriors-map",
+  "version": "0.0.1",
+  "description": "Hyrule Warrior's Adventure map information",
+  "main": "index.js",
+  "author": "pikax",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "typescript": "^2.9.1"
+  }
+}
+}
